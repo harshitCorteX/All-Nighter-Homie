@@ -1,32 +1,88 @@
-# All Nighter Homie ✦
+<div align="center">
 
-**Late night. Bright ideas. Good company.**
+<img src="assets/readme-banner.svg" alt="All Nighter Homie — a cozy corner for your brightest ideas" width="100%">
 
-A cozy study workspace that turns your notes into clear explanations, practice quizzes, flashcards and a revision plan. Made with plain HTML, CSS and JavaScript, so you can open it on a laptop, host it on GitHub Pages, or share one link with a friend.
+### 🌙 Late night. Bright ideas. Good company.
 
-## Open the app
+Your notes, a little less overwhelming. Your next aha moment, a little closer. ✨
 
-**[Use All Nighter Homie](https://all-nighter-homie.hp4277467.chatgpt.site)**
+**[🚀 Open the app](https://all-nighter-homie.hp4277467.chatgpt.site)** &nbsp; · &nbsp; **[🧭 Quick start](#-your-first-small-win)** &nbsp; · &nbsp; **[🌐 Publish your own](PUBLISH-TO-GITHUB.md)**
 
-No account or installation is needed. Choose **Meet your study homie** to explore a sample lesson without an API key. For your own notes, open **Connect AI**, add your own [Groq key](https://console.groq.com/keys), test it, and save the settings. Each visitor uses their own key and browser storage.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
+![Groq](https://img.shields.io/badge/AI-Groq-C2B0FF?style=flat-square&labelColor=232436)
+![Runtime dependencies](https://img.shields.io/badge/Runtime_dependencies-0-B8D8C5?style=flat-square&labelColor=232436)
 
-## What's inside
+</div>
 
-| Tool | Your next small win |
-| --- | --- |
-| My notes | Paste, autosave, import `.txt`/`.md`, export a backup |
-| Explain it | Understand a topic at beginner, high-school or college level |
-| Practice quiz | Generate 3, 5 or 10 questions with feedback and a running score |
-| Flashcards | Flip, review, and track what you remember |
-| Study plan | Make a 1-, 2-, 4- or 8-week plan and check off daily tasks |
-| Ask your notes | Work through questions in a conversation grounded in your material |
-| Focus room | Start, pause, resume or reset a 25-minute session on any screen size |
+---
 
-The interface includes a midnight theme, a light theme, a learning snapshot, a moon mascot, responsive layouts and a Share button. Notes and generated study progress restore after a reload. The original AI Study Buddy note storage is retained for users on the same browser origin.
+## ☕ Meet your new study homie
 
-## Put it on your GitHub profile
+A long syllabus. A tricky chapter. A brain with seventeen tabs open.
 
-See **[PUBLISH-TO-GITHUB.md](PUBLISH-TO-GITHUB.md)** for the exact steps. A GitHub Actions workflow is included; it checks the app, builds static files and publishes them to Pages.
+**All Nighter Homie** gives your study session a little structure and a lot more clarity. Bring your notes, pick a tool, and turn “I don't get this” into “wait… that makes sense.”
+
+No app account. No installation. Just a cozy workspace that opens in your browser. 💜
+
+> **Just looking around?** Tap **Meet your study homie** in the app. The sample lesson works without an API key, so you can try the study tools straight away.
+
+## ✨ Same notes. New superpowers.
+
+| | Your tool | Your next small win |
+| :---: | :--- | :--- |
+| 📝 | **My notes** | Paste, autosave, import text files, and export a backup. |
+| 💡 | **Explain it** | Make a tricky topic click at beginner, high-school, or college level. |
+| 🎯 | **Practice quiz** | Try 3, 5, or 10 questions with instant feedback and a running score. |
+| 🃏 | **Flashcards** | Flip, recall, repeat — and keep track of what you remember. |
+| 🗓️ | **Study plan** | Break your goal into 1, 2, 4, or 8 weeks of checkable daily tasks. |
+| 💬 | **Ask your notes** | Talk through questions with an AI tutor grounded in your material. |
+| ⏳ | **Focus room** | Settle into a 25-minute session, then take a proper break. |
+
+## 🌗 A space that feels good to study in
+
+| 🌙 Settle into the night | ☀️ Let a little light in |
+| :--- | :--- |
+| Deep midnight colours, soft lavender accents, and a friendly moon keeping you company. | A clean light theme for daytime sessions, with your preference remembered. |
+
+- **📊 See your progress.** A learning snapshot brings your notes, quiz score, and flashcard recall together.
+- **💾 Pick up where you left off.** Notes and generated study progress restore in the same browser after a reload.
+- **📱 Bring any screen.** Responsive layouts work on laptops, tablets, and phones.
+- **🔗 Bring a friend.** The Share button copies the app address so your homies can open their own workspace.
+- **🫶 Take it at your pace.** Clear controls, keyboard access, and reduced-motion support keep things comfortable.
+
+## 🚀 Your first small win
+
+### 1. Make yourself at home 🏡
+
+Open **[All Nighter Homie](https://all-nighter-homie.hp4277467.chatgpt.site)**. Try the sample lesson, or paste your own notes into **My notes**. You can also import a `.txt`, `.text`, or `.md` file.
+
+### 2. Connect your AI homie 🔌
+
+Open **Connect AI**, enter your own **[Groq API key](https://console.groq.com/keys)**, choose **Test connection**, then **Use these settings**.
+
+> 🔑 Your key stays in tab memory and goes directly to Groq. Re-enter it after a reload. Each visitor uses their own key; the app does not include a shared key or free unlimited AI.
+
+### 3. Pick your next step ✦
+
+Need a simpler explanation? **Explain it.** Want to see what stuck? **Take a quiz.** Ready to settle in? **Open the focus room.**
+
+One chapter. One question. One small win at a time.
+
+## 🧑‍🤝‍🧑 Send a little homie energy
+
+Share **[the live app](https://all-nighter-homie.hp4277467.chatgpt.site)** with a friend. They open it on their laptop or phone — no GitHub account, terminal, or Node.js installation needed.
+
+Their notes stay in their browser. Their AI key stays in their tab. Sharing the app link does not share your study material. 🔒
+
+Prefer a local copy? Download the project, unzip it, and double-click **`index.html`**. Keep the `assets` folder and the other app files beside it.
+
+## 🌐 Give it a home on GitHub
+
+Ready to make it part of your profile? The project includes a **GitHub Pages publishing workflow** that checks the code, runs the tests, and publishes the static app.
+
+**[📖 Follow the step-by-step publishing guide →](PUBLISH-TO-GITHUB.md)**
 
 For a repository named `All-Nighter-Homie` under `harshitCorteX`, the Pages address will be:
 
@@ -34,27 +90,26 @@ For a repository named `All-Nighter-Homie` under `harshitCorteX`, the Pages addr
 https://harshitcortex.github.io/All-Nighter-Homie/
 ```
 
-That address becomes live only after you upload the files, enable GitHub Pages and complete a successful deployment. If you update the existing `AI-Study-Buddy` repository instead, its existing repository name remains in the Pages URL; the app itself still displays **All Nighter Homie**.
+> 📌 This GitHub Pages address becomes live after the files are uploaded, Pages is enabled, and deployment succeeds. The hosted app linked at the top is available separately. Keeping the older `AI-Study-Buddy` repository name keeps that name in its Pages URL.
 
-## Give it to someone for their laptop
+---
 
-Send them the live link above, or your GitHub Pages link after deployment. They open it in Chrome, Edge, Firefox, Safari or another modern browser. No Node.js, terminal or file download is required for normal use.
+## 🛠️ Under the cozy hood
 
-They can also unzip the project and double-click `index.html`. Keep the `assets` folder and the other application files beside it. Local files work without a server; the app-shell offline cache requires a hosted HTTPS origin or localhost. AI features always require an internet connection and a Groq key.
+Plain **HTML, CSS, and JavaScript** power the interface. **Groq** handles AI requests. Browser storage remembers notes and progress. No framework or runtime package installation is needed to use the app.
 
-After a first successful online visit, the hosted app caches its public interface for reopening offline. Notes and sample study tools can still be used; live AI cannot. Bookmarking the link is the simplest way to come back. Browsers that support app installation may also offer **Install** or **Add to home screen**.
+<details>
+<summary><strong>💻 Run locally, check the code, and build</strong></summary>
 
-## Run and develop locally
-
-The application has **zero runtime dependencies** and requires no build to open directly. For a consistent local origin, use Node.js **20.19+**:
+For a consistent localhost origin, use **Node.js 20.19+** and start the optional development server:
 
 ```sh
 npm start
 ```
 
-Open [localhost:4173](http://localhost:4173). The optional development server binds only to localhost and serves known public app files. Use the `PORT` environment variable if 4173 is already in use.
+Open **[localhost:4173](http://localhost:4173)**. The server binds only to localhost; set the `PORT` environment variable if that port is already in use.
 
-For development checks and a deployable static bundle:
+For development checks and a static bundle:
 
 ```sh
 npm ci --ignore-scripts
@@ -63,38 +118,70 @@ npm test
 npm run build
 ```
 
-The static output is `dist/`. Tests use `linkedom` as a development dependency. All **28 automated tests** cover data validation, interrupted AI streams, sample flows, storage migration, progress restoration, safe text rendering, theme switching, focus controls and sharing. AI responses are mocked in these tests. Use **Test connection** with your own key to verify your Groq access.
+The build lands in **`dist/`**. The app has **zero runtime dependencies**; the DOM tests use `linkedom` as a development dependency.
 
-## How AI and storage work
+**✅ 28 automated tests** cover response validation, interrupted streams, study flows, note migration, progress restoration, safe text rendering, themes, focus controls, and sharing. AI responses are mocked in tests; use **Test connection** with your key to check real Groq access.
 
-- The browser calls [Groq's chat completions API](https://console.groq.com/docs/api-reference) directly with your key. No shared owner key is embedded in the app.
-- Explanations and chat stream safely into text nodes. Quizzes, flashcards and plans use JSON mode and validate fields before rendering.
-- Requests support cancellation and a 90-second timeout. Authentication, model permissions, rate limits and network errors have recovery messages.
-- Notes are limited to 200,000 characters; imported files to 200 KB. For longer documents, up to 12,000 characters of selected excerpts are sent, with a visible status message. Topic matches are prioritised for targeted requests. Split a large syllabus into chapters for better coverage.
-- Notes and study progress are stored in this browser's `localStorage`. Your theme preference is stored there too. Your API key and conversation history stay in tab memory and are cleared on reload.
-- The Share button copies only the app address. It does not send notes, messages or API keys to friends.
-- The service worker caches only the public interface files. It does not cache Groq requests or keys.
-- Editing notes resets prior generated results and chat context. Clearing notes clears their study progress. Export notes before replacing them if you need a backup.
-- Every hostname and browser profile has separate storage. Notes saved on the hosted demo, GitHub Pages, localhost or a local file do not automatically sync.
+</details>
 
-Sample mode uses clearly labelled prepared responses about photosynthesis and makes no AI requests. AI may make mistakes; verify important answers against your course material. PDF and Word imports are not supported; paste their text instead. If local storage is blocked or full, export a backup of your notes.
+<details>
+<summary><strong>🔒 Your notes, your key, your browser</strong></summary>
 
-## Project files
+- **Notes, progress, and theme** are saved in your browser's `localStorage`.
+- **Your API key and chat history** stay in tab memory and clear on reload.
+- **AI requests** send the relevant prompt, selected notes, and conversation directly to [Groq](https://console.groq.com/docs/api-reference).
+- **Share** copies only the app address, without notes, messages, or API keys.
+- **Offline caching** stores only public app files; it does not cache Groq calls or keys.
+- **Editing notes** resets old generated results and chat context. Export a backup before replacing material you want to keep.
+- **Different browsers and hostnames** have separate storage. Notes do not automatically sync between the live app, GitHub Pages, localhost, and local files.
+
+Existing notes from the original AI Study Buddy are retained when using the same browser origin. If storage is blocked or full, export a backup.
+
+</details>
+
+<details>
+<summary><strong>🧠 A few useful things to know</strong></summary>
+
+- **Sample mode** uses labelled, prepared responses about photosynthesis and makes no AI requests.
+- **AI features** require an internet connection and your own Groq key. Answers can contain mistakes; check important material against your course notes.
+- **File imports** support `.txt`, `.text`, and `.md` up to **200 KB**. For PDF or Word documents, paste their text instead.
+- **Notes** support up to **200,000 characters**. Longer material uses up to **12,000 characters of selected excerpts** per request, with a visible status message. Topic matches are prioritised; splitting large documents into chapters improves coverage.
+- **Requests** support cancellation, a 90-second timeout, validated quiz/plan responses, and helpful recovery messages.
+- **Offline use** is available for the hosted interface after a successful first online visit. Notes and prepared samples can work offline; live AI cannot. The app-shell cache requires HTTPS or localhost.
+- **Coming back** is as simple as bookmarking the link. Browsers that support installation may also offer **Install** or **Add to home screen**.
+
+</details>
+
+<details>
+<summary><strong>🗂️ Find your way around the project</strong></summary>
 
 ```text
-index.html                  Workspace and dialogs
-styles.css                  Midnight/light themes and responsive layouts
-app.js                      Study flows, local state and interactions
-core.js                     Groq transport and response validators
-assets/                     Moon icon and original desk illustration
-manifest.webmanifest        App metadata
-sw.js                       Public-interface offline cache
-server.cjs                  Optional local development server
-build.cjs                   Static bundle preparation
-tests/                      28 core and DOM integration tests
-.github/workflows/          Checks and GitHub Pages publishing
-PUBLISH-TO-GITHUB.md         Upload, deploy and share instructions
-IBM_BOB_USAGE.md             Original project's tooling notes
+All-Nighter-Homie/
+├── index.html                 # Workspace and dialogs
+├── styles.css                 # Midnight/light themes and responsive layouts
+├── app.js                     # Study flows and local interactions
+├── core.js                    # Groq transport and response validation
+├── assets/                    # Moon mascot, desk illustration, README banner
+├── manifest.webmanifest       # App metadata
+├── sw.js                      # Public-interface offline cache
+├── server.cjs                 # Optional local development server
+├── build.cjs                  # Static bundle preparation
+├── tests/                     # Core and DOM integration tests
+├── .github/workflows/         # Checks and GitHub Pages publishing
+├── PUBLISH-TO-GITHUB.md        # Upload, deploy, and share instructions
+└── IBM_BOB_USAGE.md            # Original project's tooling notes
 ```
 
-Built for your lightbulb moments. Take breaks. Keep going. ✦
+</details>
+
+---
+
+<div align="center">
+
+### 🌙 Keep the curiosity. Take the break. Come back brighter.
+
+Made for your lightbulb moments, one small win at a time. 💜
+
+**[✨ Start a study session](https://all-nighter-homie.hp4277467.chatgpt.site)**
+
+</div>
