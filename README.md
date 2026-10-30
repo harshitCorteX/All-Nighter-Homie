@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/readme-banner.svg" alt="All Nighter Homie — a cozy corner for your brightest ideas" width="100%">
+<img src="./readme-banner.svg" alt="All Nighter Homie — a cozy corner for your brightest ideas" width="100%">
 
 ### 🌙 Late night. Bright ideas. Good company.
 
