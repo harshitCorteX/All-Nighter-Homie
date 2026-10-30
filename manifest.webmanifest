@@ -1,0 +1,12 @@
+{
+  "id": "./",
+  "name": "All Nighter Homie",
+  "short_name": "Homie",
+  "description": "A cozy study space for notes, quizzes, flashcards and focused learning.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#12131f",
+  "theme_color": "#12131f",
+  "icons": [{ "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
